@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">Lil\'Bro</string>
+    <string name="loginText">Utilisateur :</string>
+    <string name="loginHint">Entrez votre nom d\'utilisateur </string>
+    <string name="passwordText">Mot de passe :</string>
+    <string name="passwordHint">Entrez votre mot de passe</string>
+    <string name="buttonConnexion">Connexion</string>
+    <string name="userInexistant">Cet utilisateur n\'existe pas</string>
+    <string name="bddEchec">Verifiez votre connexion</string>
+    <string name="mdpIncorrect">Mot de passe incorrect</string>
+
+    <string name="itemParametre">Paramètres</string>
+    <string name="itemMaps">Carte</string>
+    <string name="itemLocaux">Locaux</string>
+    <string name="itemAlert">Alertes</string>
+    <string name="logolilbro">LogoLilBro</string>
+
+    <string name="bGenererCompte">Générer un compte utilisateur</string>
+    <string name="titeGenererCompte">Enregistrer cet utilisateur ?</string>
+    <string name="titeGenererComptePositif">Confirmer</string>
+    <string name="titeGenererCompteNegatif">Annuler</string>
+    <string name="GenererCompteNegatif">Utilisateur non enregistré</string>
+    <string name="GenererCompteSucce">Utilisateur ajouté</string>
+    <string name="GenererCompteFail">Impossible d\'ajouter pour le moment</string>
+    <string name="modifLoginHint">Nouveau nom d\'utilisateur </string>
+    <string name="modifPasswordHint">Nouveau mot de passe</string>
+    <string name="modifPasswordHint2">Confirmez le nouveau mot de passe</string>
+    <string name="buttonModifer">Modifier</string>
+    <string name="motDePasseDifferents">Les deux mots de passe sont différents</string>
+    <string name="motDePassecourt">Veuillez saisir un mot de passe contenant au moins 6 caractéres</string>
+    <string name="modifCompteChampsIncomplet">Veuillez remplir tout les champs d\'abord</string>
+    <string name="modifComptePseudExistant">Pseudo déja pris</string>
+    <string name="deconnection">Me déconnecter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="bonjour">Bonjour !</string>
+    <string name="deconnexion">Déconnexion</string>
+    <string name="deconnexionAnnulee">Déconnexion annulée</string>
+    <string name="demandeDeco">Etes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="modifAlert">Modifier le type d\'alerte</string>
+    <string name="bienvenue">Bienvenue !</string>
+
+
+    <string name="champIncomplets">Veuillez remplir tout les champs</string>
+    <string name="sessionExpiree">Votre session à expirée, veuillez vous reconnecter</string>
+    <string name="btLive">En direct</string>
+    <string name="btHistoriquesAlertes">Alertes</string>
+    <string name="btAlerter">Alerter</string>
+    <string name="itemDirect">En Direct</string>
+    <string name="chargment">Chargement stream ...</string>
+    <string name="btHistorique">Historique des visionnages</string>
+    <string name="btModifLogin">Modifier infos compte</string>
+    <string name="changeMDP">Veuillez choisir un mot de passe différent du précédent</string>
+    <string name="textIgnorer">Ignorer pour le moment</string>
+    <string name="deconnectionUnderline"><u>Me déconnecter</u></string>
+    <string name="btImg">Images</string>
+    <string name="imgLocal">Images local</string>
+    <string name="btShowAlerter">Voir Vidéo de l\'alerte</string>
+    <string name="textHisAlerte">Vidéo alerte</string>
+    <string name="itemAlertLocal">Alertes</string>
+    <string name="boutonVoirAlerte">Voir</string>
+    <string name="labelDate">Date :</string>
+    <string name="labelUser">Utilisateur :</string>
+    <string name="labelLocal">Local :</string>
+    <string name="noImg">Pas d\'image disponible</string>
+    <string name="noAlert">Pas d\'alerte pour ce local</string>
+    <string name="AlerteRéussie">Alerte envoyée</string>
+
+    <string name="mapKey" translatable="false">AIzaSyCAZoqBh33bmL-07F1Io4WRwbU9ye1x6Z4</string>
+    <string name="notificationName" translatable="false">notifLilBro</string>
+    <string name="notificationDescription" translatable="false">LilBroNotif</string>
+    <string name="channelID" translatable="false">Channel01</string>
+
+
+</resources>
